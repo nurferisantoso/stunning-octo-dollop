@@ -1,0 +1,34 @@
+.slider h3,
+.slider h5 ,
+.clients h3{
+	text-shadow: 1px 1px 3px rgbh(0,0,0,0.5);
+}
+
+.parallax-container {
+	height: 20%;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.hobby img {
+	max-width: 100px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section,
+footer {
+	padding: 20px 0px;
+}
+
+.brand-logo img {
+	height: 75px;
+	width: 100px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+.about img {
+	height: 300px;
+	width: 250px;
+}
